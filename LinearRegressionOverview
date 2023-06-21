@@ -1,0 +1,25 @@
+Supervised Learning notes
+
+Algorithm produces a function f
+
+
+Linear Regression models take in in input to predict* an output
+
+y^ = prediction/estimate
+y = actual true value  
+
+
+
+training sets include inputs (features) and outputs (targets)
+
+Key question - how do we represent f
+
+fw,b(x) = wx + b = y^ (y "hat") OR simply f(x) = wx + b
+where b = bias
+where w = number of observations 
+
+algorithm generates the best fit line based on both the inputs and values of w and b
+Linear function is a fancy term for a straight line 
+  -sometimes you want to fit data on a curve, a line is a foundation that can help us get to more complicated models
+  
+  Univariate = one input value 
